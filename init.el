@@ -1,26 +1,3 @@
-
-;; This is the official Emacs init file for the course IOOPM. It
-;; uses English, not because anyone thinks it's cooler than
-;; Swedish, but to avoid encoding problems with using Swedish
-;; characters. Put it in `~/.emacs.d/init.el` to use it for your
-;; own Emacs. You can use as many or as few of these settings as
-;; you would like. Experiment and try to find a set-up that suits
-;; you!
-;;
-;; Some settings in this file are commented out. They are the ones
-;; that require some choice of parameter (such as a color) or that
-;; might be considered more intrusive than other settings (such as
-;; linum-mode).
-;;
-;; Whenever you come across something that looks like this
-;;
-;;    (global-set-key (kbd "C-e") 'move-end-of-line)
-;;
-;; it is a command that sets the keyboard shortcut for some
-;; function. If you find a function that you like, whose keyboard
-;; shortcut you don't like, you can (and should!) always change it to
-;; something that you do like.
-
 ;; ===========
 ;; Appearance
 
